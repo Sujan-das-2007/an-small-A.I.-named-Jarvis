@@ -1,5 +1,6 @@
 # an-small-A.I.-named-Jarvis
-The name of this ai is Jarvis.I am a 14 year old boy from Kolkata(India). I have just started to code a few months ago. I was inspired by CodeWithHarry(youtuber) & Tony Stark(a fictional character). So, I created this. any suggestion will be appreciated. 
+The name of this ai is Jarvis.I am a 14 year old boy from Kolkata(India). I have just started to code a few months ago and don't know more about coding
+. I was inspired by CodeWithHarry(youtuber) & Tony Stark(a fictional character). So, I created this. any suggestion will be appreciated. 
 code:::::
 import pyttsx3 #pip install pyttsx3
 import speech_recognition as sr #pip install speechRecognition
