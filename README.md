@@ -149,7 +149,7 @@ if __name__ == "__main__":
         elif 'text' in query:
           try:
            speak("whom should i text??")
-           whom=takeCommand()
+           whom=takeCommand().lower()
            speak("what should i say")
            message=takeCommand()
         #    break_out=takeCommand()
